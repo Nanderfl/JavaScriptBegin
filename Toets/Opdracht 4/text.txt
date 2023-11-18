@@ -1,0 +1,4 @@
+a: Een 'for loop' gebruik je om bepaalde code te herhalen in een loop.
+b: Een 'While loop' is hetzelfde als een 'for loop' alleen heeft deze een bepaalde conditie nodig.
+c: Zie code
+d: Zie code

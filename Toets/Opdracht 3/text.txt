@@ -1,0 +1,2 @@
+A: Een array is een variabel waar je meerdere gegevens kunt opslaan. zoals bij strings en getallen.
+B: Objects kunnen variabelen zijn die anders zijn georganiseerd dan Arrays. Arrays kan je veel meer dingen opslaan dan in een object.

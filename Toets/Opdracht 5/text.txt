@@ -1,0 +1,5 @@
+a: 
+- Een if statement houd in dat als er een bepaalde conditie true/false is, dat hij iets performt.
+- Een else gebruik je als je iets extra's wilt toevoegen. Dit betekent ook wel 'Als'. Als er iets gebeurt, dat hij dan een andere doel performt.
+b: Een switch is een soort block die alles excuteert. Een voorbeeld zou zijn dat je een case voor elke dag van de week maakt.
+c: zie code.

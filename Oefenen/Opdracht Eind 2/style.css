@@ -1,0 +1,61 @@
+body{
+    overflow: hidden;
+    background-color: rgb(255, 227, 250);
+    font-size: 100px;
+}
+
+.board{
+    position: relative;
+    left: 40%;
+    top: 200px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px;
+}
+
+.square{
+    color: rgb(244, 85, 255);
+    background-color: rgb(252, 213, 255);
+    border: 1px solid;
+    height: 100px;
+    width: 100px;
+    gap:0;
+    display: grid;
+    justify-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h6 {
+    color: rgb(244, 85, 255);
+    position: relative;
+    left: 35%;
+    bottom: 375px;;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.text1 {
+   position: relative; 
+   bottom: 150px;
+   font-size: 50px;
+   left: 38.5%;
+   color: rgb(0, 255, 0);
+}
+
+#win {
+    position: relative;
+    
+}
+
+button {
+    color: rgb(244, 85, 255);
+    position: absolute;
+    height: 40px;
+    width: 150px;
+    border-radius: 12px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(250, 181, 255);
+    border: none;
+    top: 650px;
+    left: 45%;
+}

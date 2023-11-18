@@ -1,0 +1,1 @@
+const text1Cons = document.querySelector("h6");
